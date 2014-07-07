@@ -1,0 +1,30 @@
+body {
+	padding: 50px;
+	font: 14px "Times New Roman", Georgia, Serif;
+	line-height:1.125em;
+}
+
+legend {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+fieldset {
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+}
+
+#footer {
+	clear: both;
+	margin-top: 11px;
+	padding: 11px;
+	width: 100%;
+	text-align: center;
+}
+
+.graytext {
+	font-size: 12px;
+	line-height: 14px;
+	text-decoration: none;
+}
